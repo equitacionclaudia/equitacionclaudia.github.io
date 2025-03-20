@@ -35,4 +35,4 @@
 			</form>
 
 		<img src="file:///D:/WEB%20HTML%20I/formulario.gif" alt="Mi GIF Local" width="200" height="auto"/>
-	<br> <a href="trabajo html equitación.html">Vuelta atrás</a>
+	<br> <a href="index.html">Vuelta atrás</a>
