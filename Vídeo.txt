@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset "utf-8" />
+		<title>Equitación </title>
+		<link rel="stylesheet" href="estilo a.css">
+	  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+
+	</head>
+	<body>
+		<p>Equitación</p>
+			<hr>
+		<h1>Vídeos básicos de ejemplo</h1>
+		<h2>
+
+		En el enlace te lleva a un vídeo al exterior de esta página en la que se explican los principios básicos de la equitación y en el vídeo que aparece en 			esta página hace una breve introducción sobre este deporte.   
+		</h2>
+		<h3>
+		<a href="https://www.youtube.com/watch?v=jBsXwSlr1T4"><img width="500" height="315" alt="vídeo equitación" src="https://www.youtube.com/watch?v=jBsXwSlr1T4" /></a>
+		</h3>
+		 <iframe width="560" height="315" src="https://www.youtube.com/embed/hWJi68q5hH0?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
+		<br> <a href="trabajo html equitación.html">Vuelta atrás</a> 
+	</body>

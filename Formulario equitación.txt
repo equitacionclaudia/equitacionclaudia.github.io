@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+		<meta charset "utf-8" /> 
+		<title>Equitación </title> 
+		<link rel="stylesheet" href="estilo b.css">
+	  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+
+	</head> 
+	<body> 
+		<h1>Formulario</h1> <br/> <br/> <br/> 
+		
+		<h2>
+		<div class="caja">
+		Para poder ponernos en contacto con usted rellene el formulario
+		</h2> 
+			<p>
+			<div class="caja">
+
+			Introduce tu nombre
+			</p> 
+			<form> 
+				<input type="text> 
+			<p>Introduce tu correo</p> 
+				<input type="email" required name="usermail" placeholder="ejemplo@gmail.com"> 
+				<input type="password"> 
+				<input type="checkbox" required>
+				<input type="radio">
+				<input type="file">
+				<input type="date">
+				<input type="submit">
+			</form>
+
+		<img src="file:///D:/WEB%20HTML%20I/formulario.gif" alt="Mi GIF Local" width="200" height="auto"/>
+	<br> <a href="trabajo html equitación.html">Vuelta atrás</a>

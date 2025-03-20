@@ -1,0 +1,49 @@
+/* Reset de márgenes y padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url('https://th.bing.com/th/id/OIP.1qI-XgaB1rYATzTCAlJTiwHaE7?rs=1&pid=ImgDetMain.jpg'); /* Ruta de la imagen */
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-position: center center; /* Centra la imagen */
+    color: #fff; /* Cambia el color del texto a blanco si el fondo es oscuro */
+    padding: 30px;
+    text-align: center;
+}
+
+
+
+h1 {
+    font-family: 'Playfair Display', sans-serif;
+
+    font-size: 40px; 
+    color: blue;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Arial', 'Calibri', sans-serif; /* Especifica las fuentes Arial o Calibri */
+    font-size: 19px; 
+    color: white;
+    margin: 20px 0;
+    font-weight: normal;
+    line-height: 1.5;
+    font-style: italic;
+    text-align: justify;
+}
+.caja{
+	background-color: rgba(0, 0, 0, 0.3);
+	display: inline-block;
+	border-radious: 8px;
+	width: 90%;
+	padding: 20px;
+}
+
+

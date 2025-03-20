@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset "utf-8" />
+		<title>Equitación </title>
+		<link rel="stylesheet" href="estilo a.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Moo+Lah+Lah&display=swap" rel="stylesheet">
+	</head>
+	<body>
+
+		<p>Equitación</p>
+		<hr>
+		<h1>¿Qué es la equitación?</h1>
+		<h2>
+		La equitación es el deporte y la práctica de montar a caballo. La equitación es una especialidad dentro de los deportes ecuestres, y en ella se 		evalúa tanto al jinete como al caballo. 
+		La equitación como deporte olímpico tiene tres disciplinas:
+			<ul>
+				<li>Doma clásica</li>
+				<li>Concurso completo de equitación</li>
+				<li>Saltos de obstáculo</li>
+			</ul>
+		En los enlaces se comentan cuando comenzó la equitación, la importancia de la vestimenta, porque este deporte es importante, los distintos colores del pelaje del caballo, jinetes 		y amazonas mas importantes del mundo y del país, un enlace a un vídeo de you tuve y por último, un formulario.
+
+		<div class="centro-texto">
+		<img width "10px" alt="texto alternativo de la img" src="equitacion.jpg" />
+		
+
+		</h2>
+		<h1>Beneficios físicos y mentales de montar a caballo</h1>
+		<h3>
+		<ol>
+			<li>Aumenta la fuerza y el tono muscular</li>
+			<li>Mejora nuestra postura</li>
+			<li>Disminuye la tensión muscular</li>
+			<li>Mejora la disciplina, la constancia y la paciencia</li>
+		</ol>
+		</h3>
+
+		
+ 
+		
+		<div class="contenedor">
+
+		<br> <a href="en que año comenzó la equitación.html">COMIENZO DE LA EQUITACIÓN</a>
+		
+				<br> <a href="porque es importante la equipación del caballo.html">IMPORTACIA DE ESTE DEPORTE</a>
+		
+		 <img width="200px" alt="texto alternativo de la img" src="tipos de pelaje foto.jpg" />
+		<br> <a href="colores del pelaje del caballo.html">PELAJE DEL CABALLO</a>  
+		
+		<br> <a href="jinetes.html">jinetes</a>
+		<br> <a href="amazonas.html">amazonas</a>
+		
+		<img width= "200px" alt="texto alternativo de la img" src="competicion.jpg" />
+		<br> <a href="competiciones.html">competiciones mas importantes del mundo</a>
+		
+		<br> <a href="vídeo.html">VÍDEO</a>  		
+		
+		<br> <a href="Formulario equitación.html">FORMULARIOS</a> 
+		</div>
+			</body>

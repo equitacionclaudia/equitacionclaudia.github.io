@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset "utf-8" />
+		<title>Enlaces equitación </title>
+		<link rel="stylesheet" href="estilo b.css">
+	  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+	</head>
+
+	
+	<body>
+		<p>Enlaces</p>
+		<hr>
+	
+
+		<h1>¿Dónde se origino la equitación?¿Cuántos años se lleva montando a caballo?</h1>
+		<h2>
+		<div class="caja">
+		Según los registros históricos, la equitación se originó en Asia Central hace más de 4.000 años. Los nómadas de las estepas aprendieron a montar a caballo y a criarlos para su uso en la guerra y la caza.
+		</h2>
+		<img width "10px" alt="texto alternativo de la img" src="años equitación.jpg" />
+		<br> <a href="trabajo html equitación.html">Vuelta atrás</a> 
+	</body>

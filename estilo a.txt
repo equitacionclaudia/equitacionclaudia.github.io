@@ -1,0 +1,73 @@
+p{
+	color:  black;
+	font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic; 
+	text-align: justify;
+	text-decoration: ;
+	line-height: 0;
+	letter-spacing: 2px;
+	
+}
+h2{
+	color: #b08968;
+	font-family: impact;
+	font-size: 30px;
+	font-weight: 100;
+	font-style: normal; 
+	text-align: center;
+	padding: 50px 10px ;
+	border: 1px solid #b08968;
+	border-radius: 15px;
+	margin: 15px;
+	margin-right: 50px;
+	background-color: #b08968;
+	line-height: 1.2;
+	letter-spacing: 2px;
+	background-color: #F4F9E9;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 200 px;
+}
+h3{
+	color: #b08968;
+	font-family: impact;
+	font-size: 30px;
+	font-weight: 100;
+	font-style: normal; 
+	padding: 50px 10px ;
+	margin-left: 50px; /* Márgen izquierdo de 50 píxeles */
+ 	 background-color: lightblue;: 15px;
+	background-color: #b08968;
+	line-height: 1.2;
+	letter-spacing: 2px;
+	background-color: #F4F9E9;
+}
+
+
+.contenedor {
+  width: 300px;
+  border: 1px solid black;
+	margin-top: 300px;
+}
+
+.elemento {
+  margin-left: 20px; /* Todos los elementos con la clase 'elemento' tendrán margen izquierdo */
+  background-color: lightblue;
+}
+
+.sin-margen {
+  margin-left: 0; /* Solo el elemento con la clase 'sin-margen' no tendrá margen */
+  background-color: lightcoral;
+}
+.centro-texto {
+  display: flex;
+  justify-content: center;  /* Centra el contenido horizontalmente */
+  align-items: center;      /* Centra el contenido verticalmente */
+  height: 300px;            /* Ajusta la altura según sea necesario */
+  text-align: center;       /* Centra el texto dentro del contenedor */
+  margin-top: 20px;         /* Ajusta el margen superior si es necesario */
+}

@@ -1,0 +1,62 @@
+/* Reset de márgenes y padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo global para el cuerpo de la página */
+body {
+    font-family: 'Moo Lah Lah', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Estilo para el título principal */
+h1 {
+    font-size: 2rem;
+    color: #4A90E2;
+    margin-bottom: 20px;
+}
+
+/* Estilo para los párrafos */
+p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+/* Estilo para los enlaces */
+a {
+    font-size: 1rem;
+    color: #4A90E2;
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #003366;
+}
+
+/* Estilo para la línea horizontal */
+hr {
+    border: 0;
+    border-top: 2px solid #4A90E2;
+    margin: 20px 0;
+}
+
+/* Estilo para la imagen */
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+/* Agregar un margen adicional al enlace para darle espacio */
+a {
+    display: inline-block;
+    margin-top: 15px;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+		<meta charset "utf-8" /> 
+		<title>Equitación </title> 
+	</head> 
+	<body> 
+		<h1>Amazonas más importantes</h1> 
+		<table border "1"> 
+		<tr> 
+			<td>amazona más imp española</td>
+			<td>amazona más imp del mundo</td>
+		</tr>
+		<tr>
+			<td>Laura Roquet</td>
+			<td>Jessica Von Bredow-Werndl (alemana)</td>
+		</tr>
+		<img width "20px" alt="texto alternativo de la img" src="Laura Roquet.jpg" />
+		<img width "20px" alt="texto alternativo de la img" src="Jessica Von Bredow-Werndl (alemana).jpg" />
+		<br> <a href="trabajo html equitación.html">Vuelta atrás</a>
